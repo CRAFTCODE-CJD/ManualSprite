@@ -1,6 +1,7 @@
 # Manual Sprite Editor Tools для Unreal Engine
 
 ![UE Version](Images/Icon128.png)
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0+-blue.svg)
 
 **Manual Sprite Editor Tools** — это комплексный плагин для Unreal Engine, предоставляющий специализированный редактор для создания и управления пользовательской 2D-геометрией для ассетов `PaperSprite`. Это незаменимый инструмент для разработчиков, которым нужен точный контроль над мешами спрайтов, особенно для генерации оптимизированных ассетов `StaticMesh` и `SkeletalMesh` из 2D-графики.
 
