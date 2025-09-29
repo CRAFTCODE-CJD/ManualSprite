@@ -1,13 +1,12 @@
 # Manual Sprite Editor Tools для Unreal Engine
 
-![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.0+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![UE Version](Images/Icon128.png)
 
 **Manual Sprite Editor Tools** — это комплексный плагин для Unreal Engine, предоставляющий специализированный редактор для создания и управления пользовательской 2D-геометрией для ассетов `PaperSprite`. Это незаменимый инструмент для разработчиков, которым нужен точный контроль над мешами спрайтов, особенно для генерации оптимизированных ассетов `StaticMesh` и `SkeletalMesh` из 2D-графики.
 
 Этот плагин был создан, чтобы заполнить критический пробел в стандартном рабочем процессе Paper2D, предлагая функции, необходимые для продвинутой разработки 2D-игр.
 
-![Manual Sprite Editor Demo](Images/Screen_01.png)](https://youtu.be/MbnoJhVYDTc)
+[![Manual Sprite Editor Demo](Images/Screen_00.png)](https://youtu.be/MbnoJhVYDTc)
 *Демонстрация процесса редактирования геометрии и генерации меша.*
 
 ---
@@ -83,8 +82,7 @@
 
 Когда ваша геометрия будет готова, нажмите `Ctrl+M` или кнопку **Generate** на тулбаре. Откроется диалоговое окно **Mesh Generation**.
 
-<!-- ЗАМЕНИТЕ ЭТО НА СКРИНШОТ ОКНА ГЕНЕРАЦИИ МЕША -->
-![Mesh Generation Dialog Screenshot](Images/Screen_02.png)
+![Mesh Generation Dialog Screenshot](Images/Screen_03.png)
 
 Здесь вы можете настроить результат:
 -   **Mesh Type:** Выберите между `StaticMesh` и `SkeletalMesh`.
@@ -96,7 +94,8 @@
 
 ## Интерфейс редактора
 
-### Тулбар (Панель инструментов)
+### Тулбар (Панель инструментов) 
+![Tool Bar Screenshot](Images/Screen_02.png)
 
 Тулбар предоставляет быстрый доступ ко всем основным функциям:
 
